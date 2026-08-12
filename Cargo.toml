@@ -416,7 +416,7 @@ rust-users = { version="0.11", package="users" }
 rand_pcg = "0.3"
 
 [build-dependencies]
-phf_codegen = "0.11.1"
+phf_codegen = "0.14.0"
 
 [[bin]]
 name = "coreutils"
